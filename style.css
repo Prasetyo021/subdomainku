@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(247, 222, 142);
+}
+.container {
+  position: relative;
+  min-height: 100vh;
+  align-items: center;
+  height: 100%;
+  width: 70%;
+  margin: 100px auto;
+  background-color: aliceblue;
+  box-shadow: 5px 10px;
+}
